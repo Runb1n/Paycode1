@@ -46,6 +46,14 @@ const About = () => {
         Join me on this exciting journey, where creativity meets technology, and together, we'll unlock the full potential of your projects.
 
         Let's code the future together with PayCode!
+
+
+        I am based in Calgary, Canada.
+
+        Buisness Address
+        Address: 11 Edgemont Rise NW
+        City/Town: Calgary
+        Postal/ZIP code: T3A2K9
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
