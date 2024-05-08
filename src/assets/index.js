@@ -4,7 +4,6 @@ import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
 import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
 
 import shaq from './personal/shaq.png';
 
@@ -56,7 +55,6 @@ export {
   whiteabstract,
   worldmap,
   logo,
-  logotext,
   shaq,
   backend,
   ux,
